@@ -133,3 +133,5 @@
 
 **git branch** – посмотреть список веток в репозитории
 
+
+**git branch -d belete_branch** - удаление ветки belete_branch

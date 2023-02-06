@@ -128,6 +128,6 @@
 
 **git branch -d belete_branch** - удаление ветки belete_branch
 
+**git merge branch_name** - команда которая позволяет слить ветки
+
 **git merge --abort** - отменить слияние, которое прошло с конфликтом
-
-
